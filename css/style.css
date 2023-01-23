@@ -1,0 +1,6 @@
+.background_cup{
+    background-image: url('../images/cup.png');
+    height: 500px;
+    background-repeat: no-repeat;
+    width: 325px;
+}
